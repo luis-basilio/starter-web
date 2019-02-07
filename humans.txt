@@ -1,15 +1,1 @@
-# humanstxt.org/
-# The humans responsible & technology colophon
-
-# TEAM
-
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
-
-# TECHNOLOGY COLOPHON
-
-    HTML5, CSS3
-    jQuery, Modernizr
+Welcome to the JIRA Server platform REST API reference. You can use this REST API to build add-ons for JIRA, develop integrations between JIRA and other applications, or script interactions with JIRA. This page documents the REST resources available in JIRA Server platform, along with expected HTTP response codes and sample requests.
